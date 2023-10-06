@@ -1,0 +1,10 @@
+{
+    // https://nuxt.com/docs/guide/concepts/typescript
+    "extends": "./.nuxt/tsconfig.json",
+    "compilerOptions": {
+        "module": "esnext",
+        "resolveJsonModule": true,
+        "esModuleInterop": true,
+        "types": ["@nuxt/types", "node"]
+    }
+}

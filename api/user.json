@@ -1,0 +1,17 @@
+{  
+            "user": {
+                "name": "John Watt",
+                "age": 30,
+                "email": "john123@gmail.com",
+                "password": "12345678",
+                "address": {
+                    "street": "123 Main St",
+                    "city": "New York",
+                    "state": "NY",
+                    "zip": "10001"
+                },
+                "avatar": "https://tailus.io/sources/blocks/stats-cards/preview/images/logo.svg",
+                "phone": "1234567890"
+            },
+            "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9"
+}

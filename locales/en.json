@@ -1,0 +1,10 @@
+{
+  "text": {
+    "global": {
+        "lbl_todo_list": "TODO List:",
+        "txt_no_todo": "No todos in list",
+        "btn_create_todo": "Create TODO",
+        "btn_remove": "Remove"
+    }
+  }
+}
